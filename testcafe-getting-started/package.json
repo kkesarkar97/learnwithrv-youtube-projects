@@ -9,6 +9,6 @@
   "author": "Razvan Vancea",
   "license": "ISC",
   "devDependencies": {
-    "testcafe": "^1.9.2"
+    "testcafe": "^1.20.1"
   }
 }
