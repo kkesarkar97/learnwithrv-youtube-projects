@@ -9,7 +9,7 @@
   "author": "Razvan Vancea",
   "license": "ISC",
   "devDependencies": {
-    "testcafe": "^1.9.2",
+    "testcafe": "^1.20.1",
     "testcafe-lighthouse": "^2.0.0"
   }
 }
